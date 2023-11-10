@@ -17,8 +17,6 @@ public class Ejercicio1 {
         String veces = scanner.nextLine();
         
         veces = veces.toLowerCase();
-        
-
 		
 	}
 }
